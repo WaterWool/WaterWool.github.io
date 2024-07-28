@@ -44,8 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EasyKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Online Editorial Display Platform for Knowledge Graph**<br/>
-National-level Funded Student Innovation and Entrepreneurship Training Program (Excellent completion, only 2 groups in the College)<br/>
-**Rungen Liu**, Ziao Qiu, Haowen Zheng, Jiaheng Wang, Tianshun Hong, Gang Wu<sup>#</sup>. [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
+National-level Funded Student Innovation and Entrepreneurship Training Program (Excellent completion, only 2 groups in the College) [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)<br/>
+**Rungen Liu**, Ziao Qiu, Haowen Zheng, Jiaheng Wang, Tianshun Hong, Gang Wu<sup>#</sup>. 
 - We develop the Platform for the users without relevant computer basics. It has a totally visualisation interface, you can generate nodes and relationships by simply drag and drop with your mouse. And there are also many features in it to help you quickly generate a knowledge graph as you like.
 - **Output**:&nbsp;3 software copyrights
 
