@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
 # 📑 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/KG-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/KG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An online editorial display platform for knowledge graphs**<br/>
