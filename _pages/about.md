@@ -7,25 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<!-- Google citation use:
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
--->
-
 <span class='anchor' id='about-me'></span>
+
 # ☀️ About Me1
 Welcome to my homepage! I’m Rungen Liu, an incoming PhD studnet at City University of Hong Kong (CityU). Fortunately, I will be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and [Prof. Jian Ma](https://www.cb.cityu.edu.hk/staff/isjian/), work and study in [AML Lab](https://aml-cityu.github.io/).
 Before that, I graduated from Northeastern University (NEU) with a bachelor degree in Computer Science and Technology from School of Computer Science and Engineering supervised by [Prof. Gang Wu](http://faculty.neu.edu.cn/wugang/zh_CN/index.htm).<br />
 My research interest includes Large Language Model Security, Recommendation System and Knowledge Graph.
-
-<!-- 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
 
 # 🔥 News
 - 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
@@ -46,6 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📑 Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EasyKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **Online Editorial Display Platform for Knowledge Graph**<br/>
 National-level Funded Student Innovation and Entrepreneurship Training Program (Excellent completion, only 2 groups in the College) [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)<br/>
 **Rungen Liu**, Ziao Qiu, Haowen Zheng, Jiaheng Wang, Tianshun Hong, Gang Wu<sup>#</sup>. 
