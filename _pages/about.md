@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2024.09 - Now*, PhD student in Information Systems, AML lab, City University of Hong Kong, Hong Kong, China. 
-- *2020.09 - 2024.07*, BSc in Geographic Information Science, Northeastern University, Shenyang, China.
+- *2020.09 - 2024.07*, BSc in Computer Science and Technology, Northeastern University, Shenyang, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
