@@ -40,6 +40,17 @@ My research interest includes neural machine translation and computer vision. I 
 - Software copyright: **Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
 - Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
+# 📑 Project
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/KG-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An online editorial display platform for knowledge graphs**
+**Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.06* &nbsp;**Northeastern University President's Medal** (10 students every year)
