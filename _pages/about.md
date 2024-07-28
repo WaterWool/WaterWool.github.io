@@ -18,7 +18,7 @@ redirect_from:
 -->
 
 <span class='anchor' id='about-me'></span>
-# :sunny: About Me
+# ☀️ About Me
 Welcome to my homepage! I’m Rungen Liu, an incoming PhD studnet at City University of Hong Kong (CityU). Fortunately, I will be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and [Prof. Jian Ma](https://www.cb.cityu.edu.hk/staff/isjian/), work and study at [AML Lab](https://aml-cityu.github.io/).
 Before that, I graduated from Northeastern University (NEU) with a bachelor degree in Computer Science and Technology from School of Computer Science and Engineering supervised by [Prof. Gang Wu](http://faculty.neu.edu.cn/wugang/zh_CN/index.htm).<br />
 My research interest includes Large Language Model Security, Recommendation System and Knowledge Graph.
@@ -36,9 +36,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
 - **ANN-based Integrated Multi-objective Investment Decision Model**, Ziao Qiu, Zhang Hang, **Rungen Liu**, International Conference on Computers, Information Processing and Advanced Education, 2022. [**PDF**](https://ieeexplore.ieee.org/document/10036750)
-- **Software copyright: Django-based Knowledge Graph Editor Backend Management System V1.0**, **Rungen Liu**, Gang Wu. [**Link**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0234718&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
-- **Software copyright: Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
-- **Software copyright: Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
+- Software copyright: **Django-based Knowledge Graph Editor Backend Management System V1.0**, **Rungen Liu**, Gang Wu. [**Link**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0234718&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
+- Software copyright: **Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
+- Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
 
 # 🎖 Honors and Awards
