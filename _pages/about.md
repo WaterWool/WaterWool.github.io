@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal.
+- *2024.06*: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal.
 - *2024.04*: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
 <!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
