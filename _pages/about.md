@@ -63,8 +63,8 @@ My research interest includes neural machine translation and computer vision. I 
 - 2021.12 The 13th National Student Mathematics Competition (Non-Mathematics) Liaoning Province, **National First Prize**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, PhD student in Information Systems, AML lab, City University of Hong Kong, Hong Kong, China. 
+- *2020.09 - 2024.07*, BSc in Geographic Information Science, Northeastern University, Shenyang, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
