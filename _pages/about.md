@@ -45,9 +45,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 **An online editorial display platform for knowledge graphs**<br/>
-**Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu
+**Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu [**Link**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
+- 12122
 
-[**link**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
