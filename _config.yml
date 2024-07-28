@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rungen Liu"
-description              : "Rungen Liu is an undergraduate graduate of Northeastern University and will be entering CityU for his PhD this September. "
+description              : "Graduate from Northeastern University and Incoming PhD studnet in City University of Hong Kong. "
 repository               : "WaterWool.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rungen Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CityU, Department of Information Systems"
+  bio              : "AML Lab, CityU"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : WaterWool
   google_plus      :
   keybase          :
   instagram        :
