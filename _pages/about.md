@@ -19,13 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧐 About Me
-Introduction I am a junior undergraduate student in the School of Computer Science at Northeastern University in China, working under the supervision of Professor Wu Gang on Visual Editing and Presentation Software for Knowledge Graph.
-Research Interests During my undergraduate studies, my research studies have covered many aspects of the subject, mainly including Numerical Analysis, Information Security, Knowledge Graph, Data Visualisation, Machine Learning, Optimisation
-Algorithms, Web System Building and Database. Currently, I am more interested in Knowledge Graph, Machine Learning, and Recommendation System, including Data Mining, Knowledge Extraction, Knowledge Reasoning and their applications in social,
-financial, and artificial intelligence fields
+Welcome to my homepage! I’m Rungen Liu, an incoming PhD studnet at City University of Hong Kong (CityU). Fortunately, I will be supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) and [Prof.Jian Ma](https://www.cb.cityu.edu.hk/staff/isjian/), work and study at [AML Lab](https://aml-cityu.github.io/).
+Before that, I graduated from Northeastern University (NEU) with a bachelor degree in Computer Science and Technology from School of Computer Science and Engineering.<br />
+My research interest includes Large Language Model Security, Recommendation System and Knowledge Graph.
 
+<!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
