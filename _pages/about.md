@@ -45,6 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 **An online editorial display platform for knowledge graph**<br/>
+National-level funded outstanding Student Innovation Project (Only 2 groups in the College)<br/>
 **Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu [**Link**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
 - 12122
 
