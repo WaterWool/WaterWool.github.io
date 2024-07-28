@@ -41,10 +41,9 @@ My research interest includes neural machine translation and computer vision. I 
 - Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
 # 📑 Projects
-(<sup>#</sup> indicates mentor.)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EasyKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+(<sup>#</sup> indicates mentor.)
 **Online Editorial Display Platform for Knowledge Graph**<br/>
 National-level Funded Student Innovation and Entrepreneurship Training Program (Excellent completion, only 2 groups in the College)<br/>
 **Rungen Liu**, Ziao Qiu, Haowen Zheng, Jiaheng Wang, Tianshun Hong, Gang Wu<sup>#</sup>. [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
