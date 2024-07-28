@@ -18,7 +18,7 @@ redirect_from:
 -->
 
 <span class='anchor' id='about-me'></span>
-# 🧐 About Me
+# :sunny: About Me
 Welcome to my homepage! I’m Rungen Liu, an incoming PhD studnet at City University of Hong Kong (CityU). Fortunately, I will be supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and [Prof. Jian Ma](https://www.cb.cityu.edu.hk/staff/isjian/), work and study at [AML Lab](https://aml-cityu.github.io/).
 Before that, I graduated from Northeastern University (NEU) with a bachelor degree in Computer Science and Technology from School of Computer Science and Engineering supervised by [Prof. Gang Wu](http://faculty.neu.edu.cn/wugang/zh_CN/index.htm).<br />
 My research interest includes Large Language Model Security, Recommendation System and Knowledge Graph.
@@ -33,7 +33,18 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 # 📝 Publications 
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+-->
 
+<!--[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+-->
 
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
 - **ANN-based Integrated Multi-objective Investment Decision Model**, Ziao Qiu, Zhang Hang, **Rungen Liu**, International Conference on Computers, Information Processing and Advanced Education, 2022. [**PDF**](https://ieeexplore.ieee.org/document/10036750)
