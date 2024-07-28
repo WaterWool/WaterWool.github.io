@@ -43,6 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
+- **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
+- **ANN-based Integrated Multi-objective Investment Decision Model**, Ziao Qiu, Zhang Hang, **Rungen Liu**, International Conference on Computers, Information Processing and Advanced Education, 2022. [**PDF**](https://ieeexplore.ieee.org/document/10036750)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
