@@ -41,12 +41,13 @@ My research interest includes neural machine translation and computer vision. I 
 - Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
 # 📑 Projects
+(<sup>#</sup> indicates mentor.)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EasyKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Online Editorial Display Platform for Knowledge Graph**<br/>
 National-level Funded Student Innovation and Entrepreneurship Training Program (Excellent completion, only 2 groups in the College)<br/>
-**Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu. [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
+**Rungen Liu**, Ziao Qiu, Haowen Zheng, Gang Wu<sup>#</sup>. [**Code**](https://github.com/WaterWool/An-online-editorial-display-platform-for-knowledge-graphs)
 - We develop the Platform for the users without relevant computer basics. It has a totally visualisation interface, you can generate nodes and relationships by simply drag and drop with your mouse. And there are also many features in it to help you quickly generate a knowledge graph as you like.
 - **Output**:&nbsp;3 software copyrights
 
@@ -58,7 +59,7 @@ National-level Funded Student Innovation and Entrepreneurship Training Program (
 <div class='paper-box-text' markdown="1">
 
 **Selective Image Encryption System Based on Semantic Understanding**<br/>
-Deshui Yu, **Rungen Liu**, Yi Han, Zhijie Yan, Jiawei Li, Shan Si, Chong Fu. [**Code**](https://github.com/yuyushui66/Selective-image-encryption-system-based-on-saliency-target)
+Deshui Yu, **Rungen Liu**, Yi Han, Zhijie Yan, Jiawei Li, Shan Si, Chong Fu<sup>#</sup>. [**Code**](https://github.com/yuyushui66/Selective-image-encryption-system-based-on-saliency-target)
 - In this System, we design a salient target detection module based on the YOLO algorithm for accurate detection of cryptographic targets.
 - We encrypt the target detection result using chaotic image encryption algorithm, which differs from traditional image encryption by simply encrypting blocks of pixels in the encrypted region.
 - **Output**:&nbsp;Third prize in the National 2022 China University Computer Competition, first place in Northeast Region.
