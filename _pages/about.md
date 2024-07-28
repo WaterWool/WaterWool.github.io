@@ -33,13 +33,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
-## Papers
+## Conference and Journal Publications
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Hang Zhang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
 - **ANN-based Integrated Multi-objective Investment Decision Model**, Ziao Qiu, Hang Zhang, **Rungen Liu**, International Conference on Computers, Information Processing and Advanced Education, 2022. [**PDF**](https://ieeexplore.ieee.org/document/10036750)
 ## Patents and Software Copyrights
-- Software copyright: **Django-based Knowledge Graph Editor Backend Management System V1.0**, **Rungen Liu**, Gang Wu, 2022. [**Link**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0234718&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
-- Software copyright: **Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
-- Software copyright: **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
+- **Django-based Knowledge Graph Editor Backend Management System V1.0**, **Rungen Liu**, Gang Wu, 2022. [**Link**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0234718&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
+- **Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
+- **Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**, 2022. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
 # 📑 Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/EasyKG.png' alt="sym" width="100%"></div></div>
