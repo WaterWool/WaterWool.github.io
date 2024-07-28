@@ -42,6 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 -->
 
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
@@ -50,10 +52,6 @@ My research interest includes neural machine translation and computer vision. I 
 - **Software copyright: Intelligent Enterprise Management Platform based on Knowledge Graph V1.0**, **Rungen Liu**, Gang Wu. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2023SR0236093&keyWord=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
 - **Software copyright: Business English Artificial Intelligence Assessment Big Data System V1.0**, Wenjing Tian, JinTong Nie, **Rungen Liu**. [**Link**](https://register.ccopyright.com.cn/login.html?linkBackUrl=https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2022SR1058326&keyWord=%E7%94%B0%E9%9B%AF%E9%9D%99&publicityType=ALL&registerDateType=ALL)
 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
