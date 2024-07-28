@@ -30,7 +30,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
 - 2024.04: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
-<!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+
 # 📝 Publications 
 
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
@@ -43,15 +44,15 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2024.06* &nbsp;**Northeastern University President's Medal** (10 students every year)
 - *2024.04* &nbsp;Outstanding Graduate of Liaoning Province
-- *2021-2024* &nbsp;**National Scholarship 2 times**, Outstanding Student of Northeastern University **First Prize Scholarship 4 times**, **Huawei Smart Dock Scholarship**, **Xiaomi Scholarship**
-- *2023.07* &nbsp;Mathematical Contest In Modeling (MCM), **Honorable Mention**
+- *2021-2024* &nbsp;**National Scholarship 2 times**, Outstanding Student of Northeastern University First Prize Scholarship 4 times, **Huawei Smart Dock Scholarship**, **Xiaomi Scholarship**
+- *2023.07* &nbsp;Mathematical Contest In Modeling (MCM), Honorable Mention
 - *2023.05* &nbsp;Mathematical Contest In Modeling (MCM), **Meritorious Winner**
-- *2022.09* &nbsp;Web Technology Challenge Grand Final, **National Third Prize**
-- *2021.12* &nbsp;The 13th National Student Mathematics Competition (Non-Mathematics) Liaoning Province, **National First Prize**
+- *2022.09* &nbsp;Web Technology Challenge Grand Final, National Third Prize
+- *2021.12* &nbsp;The 13th National Student Mathematics Competition (Non-Mathematics) Liaoning Province, National First Prize
 
 # 📖 Educations
-- 2024.09 - Now, PhD student in Information Systems, AML lab, City University of Hong Kong, Hong Kong, China. 
-- 2020.09 - 2024.07, BSc in Geographic Information Science, Northeastern University, Shenyang, China.
+- *2024.09 - Now*, PhD student in Information Systems, AML lab, City University of Hong Kong, Hong Kong, China. 
+- *2020.09 - 2024.07*, BSc in Geographic Information Science, Northeastern University, Shenyang, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
