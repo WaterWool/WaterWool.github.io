@@ -57,11 +57,11 @@ National-level Funded Student Innovation and Entrepreneurship Training Program (
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/PicSec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**An Selective Image Encryption System Based on Semantic Understanding**<br/>
+**Selective Image Encryption System Based on Semantic Understanding**<br/>
 Deshui Yu, **Rungen Liu**, Yi Han, Zhijie Yan, Jiawei Li, Shan Si, Chong Fu. [**Code**](https://github.com/yuyushui66/Selective-image-encryption-system-based-on-saliency-target)
-- In this System, We design a salient target detection module based on the YOLO algorithm for accurate detection of cryptographic targets.
-- We encrypt the target detection result using chaotic image encryption algorithm, which differs from traditional image encryption by encrypting blocks of pixels in the encrypted region 
-- **Output**:&nbsp;Third prize in the national 2022 China University Computer Competition, first place in Northeast Region
+- In this System, we design a salient target detection module based on the YOLO algorithm for accurate detection of cryptographic targets.
+- We encrypt the target detection result using chaotic image encryption algorithm, which differs from traditional image encryption by simply encrypting blocks of pixels in the encrypted region.
+- **Output**:&nbsp;Third prize in the national 2022 China University Computer Competition, first place in Northeast Region.
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
