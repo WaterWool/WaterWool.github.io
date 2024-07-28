@@ -30,8 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
 - 2024.04: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
-<!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+<!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 # 📝 Publications 
 
 - **An integrated multi-factor machine learning regression prediction model based on CBCA**, **Rungen Liu**, Zhang Hang, Ziao Qiu, IEEE International Conference on Power, Intelligent Computing and Systems, 2023. [**PDF**](https://ieeexplore.ieee.org/document/10235671)
