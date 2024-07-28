@@ -74,7 +74,7 @@ Deshui Yu, **Rungen Liu**, Yi Han, Zhijie Yan, Jiawei Li, Shan Si, Chong Fu. [**
 - *2021-2024* &nbsp;**National Scholarship 2 times**, **Huawei Smart Dock Scholarship**, **Xiaomi Scholarship**, Outstanding Student of Northeastern University First Prize Scholarship 4 times
 - *2023.07* &nbsp;Mathematical Contest In Modeling (MCM), Honorable Mention
 - *2023.05* &nbsp;Mathematical Contest In Modeling (MCM), **Meritorious Winner**
-- *2023.04* &nbsp;National-level Funded Excellent Student Innovation and Entrepreneurship Training Program (Project leader)
+- *2023.04* &nbsp;**National-level Funded Excellent Student Innovation and Entrepreneurship Training Program** (Project leader)
 - *2022.09* &nbsp;Web Technology Challenge Grand Final, National Third Prize
 - *2021.12* &nbsp;The 13th National Student Mathematics Competition (Non-Mathematics) Liaoning Province, National First Prize
 
