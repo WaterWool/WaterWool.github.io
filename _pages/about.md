@@ -28,8 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
-- *2024.04*: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
+- 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
+- 2024.04: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
 <!-- - *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 # 📝 Publications 
@@ -54,8 +54,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021 - 2024 **National Scholarship 2 times**, Outstanding Student of Northeastern University **First Prize Scholarship 4 times**, **Huawei Smart Dock Scholarship**, **Xiaomi Scholarship**
+- 2023.07 Mathematical Contest In Modeling (MCM) **Honorable Mention**
+- 2023.05 Mathematical Contest In Modeling (MCM) **Meritorious Winner**
+- 2022.09 Web Technology Challenge Grand Final **National Third Prize**
+- 2021.12 The 13th National Student Mathematics Competition (Non-Mathematics) Liaoning Province **National First Prize**
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
