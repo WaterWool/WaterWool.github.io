@@ -9,7 +9,7 @@
 title                    : "Rungen Liu"
 description              : "Graduate from NEU and Incoming PhD studnet at CityU "
 repository               : "WaterWool.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
