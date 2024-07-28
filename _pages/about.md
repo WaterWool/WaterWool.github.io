@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🧐 About Me
 Introduction I am a junior undergraduate student in the School of Computer Science at Northeastern University in China, working under the supervision of Professor Wu Gang on Visual Editing and Presentation Software for Knowledge Graph.
 Research Interests During my undergraduate studies, my research studies have covered many aspects of the subject, mainly including Numerical Analysis, Information Security, Knowledge Graph, Data Visualisation, Machine Learning, Optimisation
 Algorithms, Web System Building and Database. Currently, I am more interested in Knowledge Graph, Machine Learning, and Recommendation System, including Data Mining, Knowledge Extraction, Knowledge Reasoning and their applications in social,
