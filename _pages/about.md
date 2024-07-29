@@ -59,7 +59,7 @@ Deshui Yu, **Rungen Liu**, Yi Han, Zhijie Yan, Jiawei Li, Shan Si, Chong Fu<sup>
 
 
 # 🎖 Honors and Awards
-- *2024.06* &nbsp;**Northeastern University President's Medal** (10 students every year)
+- *2024.06* &nbsp;**Northeastern University President's Medal** (10 students every year) [**link**](https://mp.weixin.qq.com/s/we-Leze1c7VKOCP9KBOBiw)
 - *2024.04* &nbsp;Outstanding Graduate of Liaoning Province
 - *2021-2024* &nbsp;**National Scholarship 2 times**, **Huawei Smart Dock Scholarship**, **Xiaomi Scholarship**, Outstanding Student of Northeastern University First Prize Scholarship 4 times
 - *2023.07* &nbsp;Mathematical Contest In Modeling (MCM), Honorable Mention
