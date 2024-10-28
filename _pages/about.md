@@ -15,7 +15,7 @@ Before that, I graduated from Northeastern University (NEU) with a bachelor degr
 My research interest includes Large Language Model Security, Large Language Model Fine-tuning, Recommendation System and Knowledge Graph.
 
 # 🔥 News
-- 2024.09: &nbsp;Start my Phd journey at CityU.
+- 2024.09: &nbsp;Start my Phd Journey at CityU.
 - 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
 - 2024.04: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
 
