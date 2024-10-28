@@ -16,6 +16,7 @@ My research interest includes Large Language Model Security, Large Language Mode
 
 # 🔥 News
 - 2024.09: &nbsp;Start my Phd Journey at CityU.
+- 2024.07: &nbsp;Graduate from NEU.
 - 2024.06: &nbsp;🎉🎉 I'm honoured to be awarded the Northeastern University President's Medal (10 students every year).
 - 2024.04: &nbsp;I'm honoured to be selected as the Outstanding Graduate of Liaoning Province.
 
