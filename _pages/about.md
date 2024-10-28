@@ -12,7 +12,7 @@ redirect_from:
 # ☀️ About Me
 Welcome to my homepage! I’m Rungen Liu, a first-year PhD studnet at City University of Hong Kong (CityU). Fortunately, I am supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) and [Prof. Jian Ma](https://www.cb.cityu.edu.hk/staff/isjian/), work and study in [AML Lab](https://aml-cityu.github.io/).
 Before that, I graduated from Northeastern University (NEU) with a bachelor degree in Computer Science and Technology from School of Computer Science and Engineering supervised by [Prof. Gang Wu](http://faculty.neu.edu.cn/wugang/zh_CN/index.htm).<br />
-My research interest includes Large Language Model Security, Recommendation System and Knowledge Graph.
+My research interest includes Large Language Model Security, Large Language Model Fine-tuning, Recommendation System and Knowledge Graph.
 
 # 🔥 News
 - 2024.09: &nbsp;Start my Phd journey at CityU.
